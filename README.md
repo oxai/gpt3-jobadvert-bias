@@ -1,4 +1,4 @@
-# gpt3-jobad-debiasing
+# gpt3-jobadvert-bias
 
 ## Supplementary code for
 
